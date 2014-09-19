@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\bin\Release\tts.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\bin\Release\tts.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\bin\Release\tts.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\tts\tts\obj\Release\tts.csprojResolveAssemblyReference.cache

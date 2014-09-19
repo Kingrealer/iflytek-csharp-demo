@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\bin\Debug\tts.exe
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\bin\Debug\tts.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.exe
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\bin\Debug\tts.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\tts\tts\obj\Debug\tts.csprojResolveAssemblyReference.cache
